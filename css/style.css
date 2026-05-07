@@ -9,3 +9,27 @@ body {
     font-family: "Noto Serif JP", serif;
     color: #333333;
 }
+
+header {
+    background-color: #6b4c2a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+}
+
+.header__logo img {
+    width: 300px;
+}
+
+.header__nav ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+.nav__links a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
