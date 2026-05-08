@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #6b4c2a;
+    background-color: #6b3f31;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -48,4 +48,3 @@ header {
     font-size: 40px;
     color: #333333;
 }
-
