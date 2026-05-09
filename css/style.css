@@ -81,7 +81,6 @@ header {
 }
 
 .menu {
-    background-color: #f5f0e8;
     padding: 80px 40px;
     align-items: center;
     text-align: center;
@@ -127,4 +126,27 @@ header {
     color: #f5f0e8;
     text-decoration: none;
     border-radius: 30px;
+}
+
+.access {
+    padding: 80px 40px;
+    text-align: center;
+}
+
+.access h2 {
+    font-size: 40px;
+    text-align: center;
+    margin: 40px;
+}
+
+.access__item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+}
+
+.access__text {
+    font-size: 20px;
+    line-height: 3.0;
 }
