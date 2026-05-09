@@ -150,3 +150,61 @@ header {
     font-size: 20px;
     line-height: 3.0;
 }
+
+.contact {
+    padding: 80px 40px;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.contact p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.contact form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.contact label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: #6b3f31;
+}
+
+.contact input,
+.contact textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 24px;
+    border: 1px solid #6b3f31;
+    border-radius: 4px;
+    background-color: #ffffff;
+    font-family: "Noto Serif JP", serif;
+    font-size: 16px;
+}
+
+.contact textarea {
+    height: 150px;
+    resize: vertical;
+}
+
+.contact button {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    background-color: #6b3f31;
+    color: #f5f0e8;
+    border: none;
+    border-radius: 30px;
+    font-size: 18px;
+    font-family: "Noto Serif JP", serif;
+    cursor: pointer;
+}
