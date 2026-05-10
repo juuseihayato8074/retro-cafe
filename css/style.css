@@ -115,6 +115,13 @@ header {
     font-size: 18px;
 }
 
+.menu__text {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+}
+
 .menu__text__tax {
     font-size: 15px;
 }
