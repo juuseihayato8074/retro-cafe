@@ -19,7 +19,7 @@ header {
 }
 
 .header__logo img {
-    width: 300px;
+    width: 100px;
 }
 
 .header__nav ul {
@@ -46,7 +46,7 @@ header {
     bottom: 40px;
     left: 40px;
     font-size: 40px;
-    color: #333333;
+    color: #f5f0e8;
 }
 
 .about {
@@ -227,7 +227,7 @@ footer {
 }
 
 .footer__logo img {
-    width: 300px;
+    width: 100px;
 }
 
 .footer__nav ul {
